@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Rahul",
+      "username": "rah_01",
+      "email": "rahul@gmail.com",
+      "mobile": 1234567891
+    },
+    {
+      "id": 2,
+      "name": "Jeevan",
+      "username": "Gupta_jeevan",
+      "email": "jevan@gmail.com",
+      "mobile": 19876543210
+    },
+    {
+      "username": "deer",
+      "email": "deer@gmail.com",
+      "mobile": "456123789",
+      "password": "lionderr",
+      "id": 3
+    },
+    {
+      "username": "ambani",
+      "email": "ambani@gmail.com",
+      "mobile": "1237894566",
+      "password": "Xyz@1234",
+      "id": 4
+    },
+    {
+      "username": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "username": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "username": "Tiger",
+      "email": "tiger@gmail.com",
+      "mobile": "6+541239877",
+      "password": "tiger@1234",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
