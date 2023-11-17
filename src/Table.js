@@ -42,7 +42,6 @@ export default function Table() {
                     <input className='table-search' type='text' placeholder="Search" value={search} onChange={handleSearch} />
                     <div className="table-butts">
                         <button className="table-butt" type="submit"><Link to='/createuser'>+ Add</Link></button>
-                        <button className="table-butt" type="submit"> Delete</button>
                     </div>
                 </div>
                 <div className="user-table">
